@@ -1,0 +1,105 @@
+.bg-slider{
+    height: 800px;
+    background-image: url(../images/swim.1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.bg-slider:hover{
+    height: 800px;
+    background-image: url(../images/swim.4.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.image{
+    position: absolute;
+    background-color: red;
+    padding: 1%;
+    color: white;
+    top: 43%;
+    left: 35%;
+    text-transform: uppercase;
+    word-spacing: 8px;
+}
+.sufyan{
+    text-align: center;
+    text-shadow: 5ch;
+}
+.ghafar{
+    text-align: justify;
+}
+.container-fluid{
+    height: 400px;
+    background-image: url(../images/swim.8.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50px;
+    position: relative;
+}
+.mheran{
+    position: absolute;
+    top: 40%;
+    left: 38%;
+    background-color: red;
+    color: white;
+    padding: 1%;
+}
+.jamshed{
+    background-color: red;
+    border-radius: 50PX;
+}
+.rehan{
+    color: white;
+    text-align: center;
+    padding: 2%;
+}
+.faizan{
+    color: white;
+    text-align: justify;
+    padding: 2%;
+}
+.grid-container{
+    height: 400px;
+    background-image: url(../images/swim.10.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50px;
+    position: relative;
+}
+.jibran{
+    position: absolute;
+    top: 40%;
+    left: 38%;
+    background-color: red;
+    color: white;
+    padding: 1%;
+}
+.container-fluid{
+    height: 800px;
+    background-image: url(../images/swim.12.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50px;
+    position: relative;
+}
+.lava{
+        position: absolute;
+        top: 40%;
+        left: 38%;
+        background-color: red;
+        color: white;
+        padding: 1%;
+}
+.bhalu{
+    position: absolute;
+    top: 50%;
+    left: 44%;
+    background-color: red;
+    color: white;
+    padding: 1%;
+}

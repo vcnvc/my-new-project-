@@ -1,0 +1,56 @@
+header{
+    background-color: black;
+}
+.list-itemes{
+    color: white;
+    display: flex;
+    list-style: none;
+}
+.list-items{
+    margin: 4%;
+    font-size: x-large;
+}
+.bg-slider{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.container-fluid:hover{
+    border: 5px solid black;
+}
+footer{
+    background-color: black;
+    width: 60%;
+    position: absolute;
+    left: 22%;
+    border-radius: 10% 0% 10% 0%;
+    border: 5px solid brown;
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+}
+.list-items{
+    list-style: none;
+}
+.foot-container{
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
+.faizan{
+    font-size: xx-large;
+    background-color: yellow;
+    color: white;
+    width: 25%;
+}
+.faizan:hover{
+    background-color: brown;
+    color: white;
+}
+.container{
+    margin-left: 15%;
+}
+.card:hover{
+    transform: scale(1.5);
+}

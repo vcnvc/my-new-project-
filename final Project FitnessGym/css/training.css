@@ -1,0 +1,72 @@
+.bg-slider{
+    height: 400px;
+    background-image: url(../images/victor-freitas-WvDYdXDzkhs-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.sufyan{ 
+    margin-left: 8%;
+    margin-top: 2%;
+}
+.ghafar{
+    text-align: justify;
+}
+.rehan{
+    text-align: justify;
+}
+.jamshed{
+    position: relative;
+    left: 60%;
+    bottom: 20%;
+    width: 50%;
+    background-color: black;
+    width: 50%;
+    color: white;
+    padding: 5%;
+    height: 200px;
+}
+.jamshed:hover{
+    color: maroon;
+}
+.jabar{
+    position: absolute;
+    left: 75%;
+    background-color: maroon;
+    color: white;
+    width: 20%;
+    padding: 4%;
+    margin-top: -145.5px;
+}
+.fahad{
+    position: relative;
+    left: 7%;
+    bottom: 15%;   
+}
+.noman{
+    text-align: justify;
+}
+.jawad{
+    text-align: justify;
+}
+.lahore{
+    background-color: maroon;
+    color: white;
+    padding: 2%;
+}
+.maha{
+    text-align: justify;
+}
+.fruit{
+    text-align: justify;
+}
+.babu{
+    position: relative;
+    top: 27%;
+    left: 9%;
+}
+.mamu{
+    background-color: maroon;
+    color: white;
+    padding: 3%;
+}

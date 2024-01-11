@@ -1,0 +1,7 @@
+.bg-slider{
+    height: 800px;
+    background-image: url(../images/tra.1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

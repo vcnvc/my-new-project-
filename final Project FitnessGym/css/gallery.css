@@ -1,0 +1,48 @@
+.farukh{
+    position: absolute;
+    top: 3%;
+    font-style: italic;
+    left: 4%;
+}
+.farukh:hover{
+    background-color: slategrey;
+    border: 3px solid brown;
+}
+.gawa{
+    position: relative;
+    top: 50%;
+    right: 415%;
+}
+.gawa:hover{
+    transform: scale(1.1);
+}
+.jabar{
+    position: relative;
+    top: 50%;
+    right: 55%;
+}
+.jabar:hover{
+    transform: scale(1.1);
+}
+.babar{
+    position: relative;
+    right: 58%;
+}
+.babar:hover{
+    transform: scale(1.1);
+}
+.jamshed{
+    position: relative;
+    left: 64%;
+}
+.jamshed:hover{
+    transform: scale(1.1);
+}
+.mama{
+    position: relative;
+    left: 14%;
+}
+.mama:hover{
+    transform: scale(1.1);
+}
+
